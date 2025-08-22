@@ -4,8 +4,8 @@
 
 <br/>
 
-<p align="right">
-    <img src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" alt="Banner Image" width="856" height="680">
+<p align="center">
+    <img src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" alt="Banner Image" width="500" height="300">
 </p>
 
 <p align="right"> 
@@ -14,10 +14,10 @@
 
 <h2 align="center">Fullstack Developer | Problem Solver | Tech Explorer</h2>
 
-- 🔭 I’m currently working on **Attendance Record System (Next.js + React + Postgres)**  
-- 🌱 I’m currently learning **Prisma ORM, Cloudflare Workers, and VLSI applications in AI**  
+- 🔭 I’m currently working on **Personal Finance tracker app**  
+- 🌱 I’m currently learning **Node, Express, Next.Js, Genrative Ai, Ai agent**  
 - 👯 I’m looking to collaborate on **MERN/Next.js Projects**  
-- 🤝 I’m looking for help with **Advanced Database Optimization & Cloud Deployments**  
+- 🤝 I’m looking for help with **Genrative Ai, Ai agent**  
 - 💬 Ask me about **React.js, Node.js, PostgreSQL, MongoDB**  
 - 📫 How to reach me: **nayans808@gmail.com**
 
@@ -32,9 +32,9 @@
       <img align="center" src="https://img.shields.io/badge/LinkedIn-0060B1?style=for-the-badge&logo=linkedin&logoColor=white" height="30" width="100" />
     </a>
     <!-- GitHub -->
-    <a href="https://github.com/nayankumar808" target="_blank">
+<!--     <a href="https://github.com/nayankumar808" target="_blank">
       <img align="center" src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" height="30" width="100" />
-    </a>
+    </a> -->
     <!-- Gmail -->
     <a href="mailto:nayans808@gmail.com">
       <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" width="100" />
