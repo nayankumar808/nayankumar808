@@ -14,11 +14,16 @@
 
 <h2 align="center">Fullstack Developer | Problem Solver | Tech Explorer</h2>
 
-- 🔭 I’m currently working on **Personal Finance tracker app**  
-- 🌱 I’m currently learning **Node, Express, Next.Js, Genrative Ai, Ai agent**  
-- 👯 I’m looking to collaborate on **MERN/Next.js Projects**  
-- 🤝 I’m looking for help with **Genrative Ai, Ai agent**  
-- 💬 Ask me about **React.js, Node.js, PostgreSQL, MongoDB**  
+- 🔭 I’m currently working on **Personal Finance tracker app**
+  
+- 🌱 I’m currently learning **Node, Express, Next.Js, Genrative Ai, Ai agent**
+  
+- 👯 I’m looking to collaborate on **MERN/Next.js Projects**
+  
+- 🤝 I’m looking for help with **Genrative Ai, Ai agent**
+  
+- 💬 Ask me about **React.js, Node.js, PostgreSQL, MongoDB**
+  
 - 📫 How to reach me: **nayans808@gmail.com**
 
 ---
