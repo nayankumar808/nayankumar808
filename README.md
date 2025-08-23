@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working on **Personal Finance tracker app**
   
-- 🌱 I’m currently learning **Node, Express, Next.Js, Genrative Ai, Ai agent**
+- 🌱 I’m currently learning **Node, Express, Next.Js, Genrative Ai, Ai Agents**
   
 - 👯 I’m looking to collaborate on **MERN/Next.js Projects**
   
