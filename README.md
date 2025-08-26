@@ -9,7 +9,7 @@
 </p>
 
 <p align="right"> 
-    <img src="https://komarev.com/ghpvc/?username=nayankumar808&label=Profile%20views&color=0e75b6&style=flat" alt="nayankumar808" /> 
+    <img src="https://komarev.com/ghpvc/?username=nayankumar808&label=Profile%20views&color=0e75b6&style=flat" alt="nayankumar808" />
 </p>
 
 <h2 align="center">Fullstack Developer | Problem Solver | Tech Explorer</h2>
